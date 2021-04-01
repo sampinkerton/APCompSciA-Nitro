@@ -1,3 +1,4 @@
+//No tester for this one. -MP
 public class Exercise
 {
     public String title = "JavaScript Exercise";
