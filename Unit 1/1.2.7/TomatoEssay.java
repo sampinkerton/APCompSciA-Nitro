@@ -9,7 +9,7 @@ public class TomatoEssay
         System.out.print(" ruled that tomatoes should be classified as a vegetable");
         System.out.print(" under U.S Customs regulations because they are consumed");
         System.out.println(" more like a vegetable than a fruit, and should be taxed as such.");
-        System.out.print("When tomatos are shipped into the U.S, they are now taxed as vegetables");
+        System.out.print("When tomatoes are shipped into the U.S, they are now taxed as vegetables");
         System.out.print(" even though their anatomy suggests otherwise.");
     }
 }
