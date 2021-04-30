@@ -20,3 +20,4 @@ public class CarTester
         System.out.println(b);
     }
 }
+//The problem makes you make 1 of each object and test them.
