@@ -8,3 +8,4 @@ public class DogTester
         System.out.println(a + "\n" + b);
     }
 }
+//This problem requires you to actually make and print one of each dog -MP
