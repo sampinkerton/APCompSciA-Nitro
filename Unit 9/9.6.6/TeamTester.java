@@ -17,7 +17,7 @@ public  class TeamTester {
         System.out.println(cubs.getLocation());
         System.out.println(cubs.getWins());
         System.out.println(cubs.getLosses());
-        System.out.println("National"); // for some reason cubs.getLeague() doesn't work and i have no idea why.
+        System.out.println("National"); // for some reason cubs.getLeague() doesn't work and i have no idea why. - MP
         System.out.println(cubs);
         //Print out all available information for the Lizards
         System.out.println(lizards.getName());
