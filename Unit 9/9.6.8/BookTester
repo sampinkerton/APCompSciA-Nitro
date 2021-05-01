@@ -1,0 +1,11 @@
+import java.util.ArrayList;
+
+public class BookTester
+{
+    public static void main(String[] args)
+    {
+        // Start here!
+        for(int i = 0; i < 12; i ++)
+            System.out.println("\nm\n"); //it says uwu upside down
+    }
+}
