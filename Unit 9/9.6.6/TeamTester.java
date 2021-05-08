@@ -2,7 +2,7 @@ public  class TeamTester {
 
     public static void main(String[] args) {
         FootballTeam dolphins = new FootballTeam("Dolphins", "Miami", 8, 4, 1);
-        Team cubs = new BaseballTeam("Cubs", "Chicago", 80, 65, "National");
+        BaseballTeam cubs = new BaseballTeam("Cubs", "Chicago", 80, 65, "National");
         Team lizards = new Team("Lizards", "New York", 9, 5);
 
         //Print out all available information for the Dolphins
@@ -17,7 +17,7 @@ public  class TeamTester {
         System.out.println(cubs.getLocation());
         System.out.println(cubs.getWins());
         System.out.println(cubs.getLosses());
-        System.out.println("National"); // for some reason cubs.getLeague() doesn't work and i have no idea why. - MP
+        System.out.println(cubs.getLeague());
         System.out.println(cubs);
         //Print out all available information for the Lizards
         System.out.println(lizards.getName());
